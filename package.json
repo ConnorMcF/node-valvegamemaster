@@ -1,11 +1,15 @@
 {
   "name": "valvegamemaster",
-  "version": "0.1.0-1",
-  "description": "",
+  "version": "0.1.0-2",
+  "description": "Fetch Source server listings.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Connor McFarlane <connormcf@0x0.ltd> (https://connormcf.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connormcf/node-valvegamemaster.git"
+  }
 }
