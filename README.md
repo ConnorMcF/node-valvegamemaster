@@ -1,5 +1,7 @@
 # valvegamemaster
 
+> Fetch Source server listings.
+
 This library is incomplete.
 
 ## Usage
